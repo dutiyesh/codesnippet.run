@@ -10,7 +10,7 @@ Run multiple JavaScript code snippets independently on a single page.
 
 ## Website
 
-[CodeSnippet.Run](https://dutiyesh.github.io/codesnippet.run)
+[CodeSnippet.Run](https://www.codesnippet.run/)
 
 <br />
 
