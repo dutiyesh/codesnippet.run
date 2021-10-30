@@ -1,0 +1,26 @@
+.masthead {
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.masthead-details {
+  flex: 1;
+}
+
+.masthead-title {
+  font-size: 48px;
+  color: #111827;
+}
+
+.masthead-description {
+  font-size: 20px;
+  color: #374151;
+  margin-top: 20px;
+}
+
+.masthead-image {
+  max-width: 336px;
+  max-height: 224px;
+}

@@ -1,0 +1,39 @@
+.footer {
+  background: #f8f8fb;
+}
+
+.credits-container {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.credits-item {
+  color: #888;
+}
+
+.footer-divider {
+  width: 100%;
+  height: 1px;
+  border-bottom: 1px solid #e9e9ec;
+}
+
+.footer-nav {
+  padding-top: 30px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-nav-col {
+  flex: 0 0 33.33333%;
+  max-width: 33.33%;
+  width: 100%;
+}
+
+.footer-nav p,
+.footer-nav a {
+  font-size: 14px;
+  color: #888;
+}

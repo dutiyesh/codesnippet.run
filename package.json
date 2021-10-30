@@ -7,9 +7,12 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "console-feed": "^3.2.2",
     "gh-pages": "^3.2.3",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-input-autosize": "^3.0.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
@@ -22,6 +25,9 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
+    "globals": {
+      "gtag": true
+    },
     "extends": [
       "react-app",
       "react-app/jest"
