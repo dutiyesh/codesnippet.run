@@ -16,9 +16,9 @@ Run multiple JavaScript code snippets independently on a single page.
 
 <div align="center">
 
-<img src="./assets/preview-1.jpg" width="600" /><br/><br/>
+<img src="./assets/preview-1.jpg" width="800" /><br/>
 
-<img src="./assets/preview-2.jpg" width="600" /><br/><br/>
+<img src="./assets/preview-2.jpg" width="800" /><br/>
 
 </div>
 
