@@ -21,6 +21,17 @@
 }
 
 .masthead-image {
+  min-width: 0px;
   max-width: 336px;
   max-height: 224px;
+}
+
+@media screen and (max-width: 640px) {
+  .masthead-title {
+    font-size: 28px;
+  }
+
+  .masthead-description {
+    font-size: 18px;
+  }
 }
