@@ -1,6 +1,7 @@
 {
   "short_name": "codesnippet.run",
   "name": "codesnippet.run",
+  "description": "A JavaScript Code Snippet runner to execute multiple code snippets independently on a single page.",
   "icons": [
     {
       "src": "favicon.png",
